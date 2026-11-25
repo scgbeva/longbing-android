@@ -1,0 +1,16 @@
+{
+  "appId": "com.longbing.workbench",
+  "appName": "Longbing 工作台",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true,
+    "adjustMarginsForEdgeToEdge": "auto"
+  },
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false,
+      "style": "LIGHT",
+      "backgroundColor": "#f3f6f8"
+    }
+  }
+}
